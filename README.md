@@ -6,7 +6,7 @@ This is a simple chat app you can use to chat with your friends. This uses socke
 
 # Preview
 
-To test it out click [here](pearlism.github.io). Make an account and try searching for "Payson" and messaging me!
+To test it out click [here](http://pearlism.github.io). Make an account and try searching for "Pearl2poor" and messaging me!
 
 See if our public server is online -> [Status Page](https://stats.uptimerobot.com/nOnoUR6JJA/796777651)
 
