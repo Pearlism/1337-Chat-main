@@ -18,7 +18,7 @@ const Toast = Swal.mixin({
 });
 Toast.fire({
     icon: "success",
-    title: "Welcome to 1337!\n\nMade By Payson\ngithub.com/paysonism",
+    title: "Welcome to Pearls Chat!\n\nMade By Pearl\ngithub.com/pearlism",
 });
 
 // signup
